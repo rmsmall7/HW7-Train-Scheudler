@@ -1,14 +1,11 @@
 //this js file will store most of the page functions
 
-// doc ready:  
-//time is displayed in header
-// the train scheudle body is ready
-//first time to load the body will not have info
-// once user starts to add trains they will store in the body and will be displayed
-//add train section will be blank and user will be able to add in their train
-// user will select submit once all feilds are completed
-// the train will be added to the main body list of trains
-// time to arrival will calculate based on current time 
+// doc ready:   **  did not need this ** 
+//time is displayed in header  *done**
+// the train scheudle body is ready **done**
+//first time to load the body will not have info  **done**
+//add train section will be blank and user will be able to add in their train  *done**
+
 
 
       // Initialize Firebase
