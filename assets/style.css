@@ -1,0 +1,20 @@
+.heading {
+  margin:20px;
+  text-align: center;
+}
+
+.row {
+  margin:100px;
+  border: solid 2px black;
+  padding-top:15px;
+  padding-bottom: 20px;
+  background-color: gainsboro;
+}
+
+.panel-title {
+  background-color: blue;
+  color: white;
+  font-weight: boler;
+  text-align: center;
+  font-size: 2em;
+}
